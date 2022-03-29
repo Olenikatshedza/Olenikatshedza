@@ -19,3 +19,4 @@ doubler(4);
 
 I also went through setting default parameters for my functions,
 Nevertheless i was doing my to do list trying to solve some challenges i faced on the list i was creating in oder to give it functionality.
+This sums up everything I did for today.
